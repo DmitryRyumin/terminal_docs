@@ -40,6 +40,13 @@
 | `pip uninstall название_пакета` | Удаление пакета |
 | `python3 -m pip install --upgrade pip setuptools wheel` | Обновление `pip`, `setuptools`, `wheel` |
 
+## Создание пакетов Python (`Setuptools`)
+
+| Команды | Описания |
+| ------- | -------- |
+| `python setup.py sdist bdist_wheel` | Создание установочного пакета |
+| `twine upload dist/*` | Загрузка установочного пакета на https://pypi.org/pypi |
+
 ## Инструмент для создания изолированных сред Python (`virtualenv`)
 
 > [Официальная документация](https://virtualenv.pypa.io/en/latest/)

@@ -42,6 +42,8 @@
 
 ## Создание пакетов Python (`Setuptools`)
 
+> [Официальная документация](https://setuptools.readthedocs.io/en/latest/setuptools.html)
+
 | Команды | Описания |
 | ------- | -------- |
 | `python setup.py sdist bdist_wheel` | Создание установочного пакета |

@@ -127,7 +127,7 @@
 | ------- | -------- |
 | `node --version` | Версия `node.js` |
 
-## Библиотека, разработанная GitHub, для создания кросс-платформенных приложений с помощью HTML, CSS и JavaScript (`Electron`)
+## Кросс-платформенные приложения с помощью HTML, CSS и JavaScript (`Electron`)
 
 > [Официальная документация](https://electronjs.org/docs?)
 

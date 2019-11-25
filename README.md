@@ -115,6 +115,7 @@
 
 | Команды | Описания |
 | ------- | -------- |
+| `npm install -g npm` | Установка |
 | `npm --version` | Версия `npm` |
 | `npm config get prefix` | Путь к глобальному каталогу содержащему `package.json` |
 | `npm list -g --depth=0` | Список установленных глобальных пакетов |
@@ -125,7 +126,7 @@
 
 | Команды | Описания |
 | ------- | -------- |
-| `node --version` | Версия `node.js` |
+| `node -v`<br>`node --version` | Версия `node.js` |
 
 ## Кросс-платформенные приложения с помощью HTML, CSS и JavaScript (`Electron`)
 
@@ -134,3 +135,5 @@
 | Команды | Описания |
 | ------- | -------- |
 | `npm install electron -g` | Установка |
+| `npm install --save-dev electron` | Установка в текущую директорию |
+| `electron --version` | Версия `electron` |

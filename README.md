@@ -109,27 +109,6 @@
 | `brew install mediainfo` | Установка |
 | `mediainfo путь_к_файлу` | Просмотр подробной информации об аудио/видео файле |
 
-## Менеджер пакетов для среды выполнения JavaScript Node.js (`npm`)
-
-> [Официальная документация](https://docs.npmjs.com/)
-
-| Команды | Описания |
-| ------- | -------- |
-| `npm install -g npm` | Установка |
-| `npm -v`<br>`npm --version` | Версия `npm` |
-| `npm config get prefix` | Путь к глобальному каталогу содержащему `package.json` |
-| `npm install название_пакета`<br>`npm i название_пакета` | Установка пакетов |
-| `npm list --depth=0` | Список установленных локальных пакетов |
-| `npm list -g --depth=0` | Список установленных глобальных пакетов |
-
-## Node.js - среда выполнения JavaScript (`node`)
-
-> [Официальная документация](https://nodejs.org/en/docs/)
-
-| Команды | Описания |
-| ------- | -------- |
-| `node -v`<br>`node --version` | Версия `node.js` |
-
 ## Кросс-платформенные приложения с помощью HTML, CSS и JavaScript (`Electron`)
 
 > [Официальная документация](https://electronjs.org/docs?)

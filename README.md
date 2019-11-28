@@ -108,13 +108,3 @@
 | ------- | -------- |
 | `brew install mediainfo` | Установка |
 | `mediainfo путь_к_файлу` | Просмотр подробной информации об аудио/видео файле |
-
-## Кросс-платформенные приложения с помощью HTML, CSS и JavaScript (`Electron`)
-
-> [Официальная документация](https://electronjs.org/docs?)
-
-| Команды | Описания |
-| ------- | -------- |
-| `npm install electron -g` | Установка |
-| `npm install --save-dev electron` | Установка в текущую директорию |
-| `electron --version` | Версия `electron` |

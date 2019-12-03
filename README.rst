@@ -1,9 +1,0 @@
-Template
-========
-
-TEMPLATE
-
-License
--------
-
-LICENSE

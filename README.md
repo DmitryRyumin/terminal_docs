@@ -23,9 +23,7 @@
 
 > [Официальная документация](https://pip.pypa.io/en/stable/reference/)
 
-> Обновление всех пакетов
->
->   `pip list --outdated --format=freeze | grep -v '^\-e' | cut -d = -f 1  | xargs -n1 pip install -U`
+> Обновление всех пакетов - `pip list --outdated --format=freeze | grep -v '^\-e' | cut -d = -f 1  | xargs -n1 pip install -U`
 
 | Команды | Описания |
 | ------- | -------- |

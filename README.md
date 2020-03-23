@@ -39,7 +39,9 @@
 | `pip install --no-cache-dir название_пакета` | Установка пакета всегда из https://pypi.org/pypi |
 | `pip uninstall название_пакета` | Удаление пакета |
 | `python3 -m pip install --upgrade pip setuptools wheel` | Обновление `pip`, `setuptools`, `wheel` |
-| `pip list --outdated --format=freeze | grep -v '^\-e' | cut -d = -f 1  | xargs -n1 pip install -U` | Обновление всех пакетов |
+
+> Обновление всех пакетов
+>   `pip list --outdated --format=freeze | grep -v '^\-e' | cut -d = -f 1  | xargs -n1 pip install -U`
 
 ## Создание пакетов Python (`Setuptools`)
 

@@ -94,7 +94,7 @@
 
 | Команды | Описания |
 | ------- | -------- |
-| `!jupyter nbconvert --to pdf название_файла.ipynb --template classic` | Конвертация из `ipynb` в `PDF` |
+| `jupyter nbconvert --to pdf название_файла.ipynb --template classic` | Конвертация из `ipynb` в `PDF` |
 
 ## Платформа, для управления конфигурацией Zsh (`Oh My Zsh`)
 

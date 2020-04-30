@@ -90,11 +90,11 @@
 | `conda activate` | Активация вирдуальной среды `conda` |
 | `conda deactivate` | Деактивация вирдуальной среды `conda` |
 
-## Jupyter Lab
+## Веб-интерфейс `JupyterLab` для записных книжек Jupyter
 
 | Команды | Описания |
 | ------- | -------- |
-| `!jupyter nbconvert --to pdf ИМЯ.ipynb --template classic` | Из ipynb в PDF |
+| `!jupyter nbconvert --to pdf название_файла.ipynb --template classic` | Конвертация из `ipynb` в `PDF` |
 
 ## Платформа, для управления конфигурацией Zsh (`Oh My Zsh`)
 

@@ -1,9 +1,9 @@
 # Работа в терминале
 
-![GitHub top language](https://img.shields.io/github/languages/top/DmitryRyumin/docs_terminal)
-![GitHub repo size](https://img.shields.io/github/repo-size/DmitryRyumin/docs_terminal)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/DmitryRyumin/docs_terminal)
-![GitHub last commit](https://img.shields.io/github/last-commit/DmitryRyumin/docs_terminal)
+![GitHub top language](https://img.shields.io/github/languages/top/DmitryRyumin/terminal_docs)
+![GitHub repo size](https://img.shields.io/github/repo-size/DmitryRyumin/terminal_docs)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/DmitryRyumin/terminal_docs)
+![GitHub last commit](https://img.shields.io/github/last-commit/DmitryRyumin/terminal_docs)
 
 ## Команды Linux
 

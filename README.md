@@ -122,8 +122,8 @@
 | ------- | -------- |
 | `conda --version` | Получение версии `conda` |
 | `conda config --set auto_activate_base False` | Отключение автоматического запуска  `conda` при запуске терминала |
-| `conda activate` | Активация вирдуальной среды `conda` |
-| `conda deactivate` | Деактивация вирдуальной среды `conda` |
+| `conda activate` | Активация виртуальной среды `conda` |
+| `conda deactivate` | Деактивация виртуальной среды `conda` |
 
 ## Веб-интерфейс `JupyterLab` для записных книжек Jupyter
 
